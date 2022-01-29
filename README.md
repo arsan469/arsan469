@@ -1,10 +1,11 @@
-## 👋 Hi there , I'm Arsan 
-:two_hearts: I'm generalist who in love with data 
-------
+## 👋 Hi there , I'm Arsan ,
+
+I've work in factory automation industry for 4 years :robot:. Now I'm looking for new opprtunity to grow up in more challenging way. I'm interesting in data anlysis :bar_chart: and blockchain technology 🚀. Generalist is the way that I'd like to be.
+
 - 🌱 I’m currently learn about data analytic skill (R, Spreadsheet, SQL)
-- 🔭 I invest in stock , crypto currency and knowledge
-- ⚡ Fun fact: I'm a serious person.
-- 🥅 2022 Goals: Start new career path with good companies
+- 🔭 I invest in stock , crypto currency and knowledge.
+- ⚡ Fun fact: I'm not a serious person but many people think I am.
+- 🥅 2022 Goals: Start new career path with good a company.
 
 Language and Tools :
 ------
