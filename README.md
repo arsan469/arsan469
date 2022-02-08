@@ -1,6 +1,6 @@
 ## 👋 Hi there , I'm Arsan ,
 
-I've work in factory automation industry for 4 years :robot:. Now I'm looking for new opprtunity to grow up in more challenging way. I'm interesting in data anlysis :bar_chart: and blockchain technology 🚀. Generalist is the way that I'd like to be.
+I've work in factory automation industry for 4 years :robot:. Now I'm looking for new opportunity to grow up in more challenging way. I'm interesting in data analysis :bar_chart: and blockchain technology 🚀. Generalist is the way that I'd like to be.
 
 - 🌱 I’m currently learn about data analytic skill (R, Spreadsheet, SQL)
 - 🔭 I invest in stock , crypto currency and knowledge.
