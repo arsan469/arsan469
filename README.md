@@ -24,7 +24,6 @@ Language and Tools :
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>   
 </p>
 
-<br/>
 <hr>
 <p align="center">
    <i>Life is like a snowball, all you need is wet snow and a really long hill. - Warren Buffett</i>
