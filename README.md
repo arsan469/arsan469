@@ -9,17 +9,15 @@ I've work in factory automation industry for 4 years :robot:. Now I'm looking fo
 
 Language and Tools :
 ------
-<img align="left" alt="R" width="30px" src="https://cdn-icons.flaticon.com/png/512/3666/premium/3666226.png?token=exp=1643444328~hmac=75aaaa3ebce5af7735103899d742af66"/>
-<img align="left" alt="Python" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/>
-<img align="left" alt=".net" width="30px" src="https://cdn-icons-png.flaticon.com/512/2748/2748383.png"/>
-<img align="left" alt="SQL" width="30px" src="https://cdn-icons-png.flaticon.com/512/3430/3430130.png"/>
-<img align="left" alt="Google Sheet" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281761.png"/>
-<img align="left" alt="Excel" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png"/>
-<img align="left" alt="Power Point" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732224.png"/>
-<img align="left" alt="Power Bi" width="30px" src="https://optimalbi.com/wp-content/uploads/2019/11/powerbi-logo.png"/>
-<img align="left" alt="Tableau" width="30px" src="https://promto.com/wp-content/uploads/2019/08/icon-tableau-1.png"/>
-<img align="left" alt="Terminal" width="30px" src="https://cdn-icons-png.flaticon.com/512/512/512204.png"/>
-
+<img align="left" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="left" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+<img align="left" src="	https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
+<img align="left" src="	https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 <br/>
 <hr>
 <p align="center">
